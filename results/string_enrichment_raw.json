@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Process",
+    "term": "GO:0006119",
+    "number_of_genes": 3,
+    "number_of_genes_in_background": 118,
+    "ncbiTaxonId": 9606,
+    "inputGenes": [
+      "MT-ATP6",
+      "MT-ND1",
+      "COX4I2"
+    ],
+    "preferredNames": [
+      "MT-ATP6",
+      "MT-ND1",
+      "COX4I2"
+    ],
+    "p_value": 2.31e-07,
+    "fdr": 0.003,
+    "description": "Oxidative phosphorylation"
+  }
+]
